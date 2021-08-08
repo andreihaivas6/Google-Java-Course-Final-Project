@@ -1,4 +1,4 @@
-# Google-Java-Course-Final-Project
+# Final Project for Google Java Course 
 
 This final project consists in implementation of two design patterns alongside with the problems they solve.
 
